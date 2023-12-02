@@ -1,0 +1,13 @@
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\DesktopTechCompany08.csproj.AssemblyReference.cache
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Cadastrar_Folhas_de_Pagamento.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Cadastrar_Funcionario.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Folha_de_Pagamento.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Funcionario.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Menu.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Visualizar_Folha_de_Pagamento.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Visualizar_Funcionario.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\DesktopTechCompany08.csproj.GenerateResource.cache
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\DesktopTechCompany08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\DesktopTechCompany08.AssemblyInfoInputs.cache
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\DesktopTechCompany08.AssemblyInfo.cs
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\DesktopTechCompany08.csproj.CoreCompileInputs.cache

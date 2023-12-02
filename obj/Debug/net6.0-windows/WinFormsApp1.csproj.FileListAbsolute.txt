@@ -1,0 +1,113 @@
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Menu.resources
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\enjoy\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Cadastrar_Funcionarios.resources
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.frm_Cadastrar_Funcionarios.resources
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.frm_Menu.resources
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\enjoy\source\repos\WinFormsApp1\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.frm_Cadastrar_Folhas_Pagamento.resources
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.frm_Cadastrar_Folhas_Pagamento.resources
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.frm_Menu.resources
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\colaborador\Desktop\Gerador de folha de pagamento\obj\Debug\net6.0-windows\WinFormsApp1.frm_Cadastrar_Funcionario.resources
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.frm_Cadastrar_Funcionario.resources
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.frm_Menu.resources
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.frm_Visualizar_Funcionario.resources
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.frm_Visualizar_Folha_de_Pagamento.resources
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.frm_Cadastrar_Folhas_de_Pagamento.resources
+C:\Users\colaborador\Desktop\TechCompany_DesckTop\obj\Debug\net6.0-windows\WinFormsApp1.frm_Folha_de_Pagamento.resources
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Cadastrar_Folhas_de_Pagamento.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Cadastrar_Funcionario.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Folha_de_Pagamento.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Menu.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Visualizar_Folha_de_Pagamento.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Visualizar_Funcionario.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.frm_Funcionario.resources
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\colaborador\Desktop\TechCompany1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\colaborador\Desktop\TechCompany1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete

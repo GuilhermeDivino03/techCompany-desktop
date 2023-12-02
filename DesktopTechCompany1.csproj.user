@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frm_Adicionar_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Exibir_Folha_Tfuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Folha_de_Pagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Tela_de_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Tela_Inicial_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Visualizar_Folha_de_Pagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Visualizar_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Cadastrar_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Cadastrar_Folhas_de_Pagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_Visualizar_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
